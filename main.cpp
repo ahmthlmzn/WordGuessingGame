@@ -1,6 +1,3 @@
-//Ahmet Halim UZUN
-//152120181048
-
 #include <iostream>
 #include <fstream>
 #include <set>
